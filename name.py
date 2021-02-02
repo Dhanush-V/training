@@ -1,2 +1,3 @@
 name="Dhanush"
-print(name*5)
+college="BIT"
+print(name*5,colleg*5)
